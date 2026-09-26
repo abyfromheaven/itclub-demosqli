@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setup.md",
+                "file": "cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "setup"
+              "title": "cheatsheet"
             }
           }
         ]
@@ -189,5 +189,7 @@
     }
   },
   "active": "00aa9b2820ba82e5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "setup.md"
+  ]
 }
